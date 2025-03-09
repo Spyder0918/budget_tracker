@@ -28,12 +28,18 @@ Enter the amount of the expense. If gas costs #32.50, add 32.50. (The $ will be 
 - Enter Description
   Add any description to help you remember what that expense was.
 
+  ![Add Expense](images/add_expense.png)
+
 
 ### View Expense
 This displays the saved expenses that were saved to the JSON file.
 
+![View Expense](images/view_expense.png)
+
 ### Exit
 This exits the program with a "Goodbye"
+
+![Exit](images/exit.png)
   
  
   
